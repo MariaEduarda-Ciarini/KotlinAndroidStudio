@@ -57,6 +57,3 @@ var (codigo, descricao) = Pair(85, "Mouse"): Cria um Pair contendo um código (8
 val produto2: Pair<Int, String> = Pair(175, "Teclado"): Cria um Pair chamado produto2, que armazena um código (175) e uma descrição ("Teclado").
 println(produto2.first) e println(produto2.second): 
 Exibem os valores armazenados no Pair produto2 utilizando first e second.
-
-Considerações Finais
-Dominar o uso de String e Pair é crucial para manipular dados textuais e estruturas de dados simples em Kotlin. A capacidade de desestruturar Pair em variáveis individuais torna o código mais legível e eficiente.

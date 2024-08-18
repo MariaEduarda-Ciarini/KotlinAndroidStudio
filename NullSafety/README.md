@@ -43,6 +43,3 @@ println(idade): Exibe o valor atual da variável idade. No primeiro caso, como i
 
 idade = 20: Atribui o valor 20 à variável idade.
 println(idade): Após a atribuição de 20, a variável idade passa a conter esse valor e é exibido no console.
-
-Considerações Finais
-O conceito de Null Safety é essencial para escrever código Kotlin seguro e livre de erros relacionados a referências nulas. Aproveitar os recursos oferecidos pela linguagem para lidar com nulidade ajuda a evitar uma das causas mais comuns de falhas em aplicações, melhorando a robustez e a confiabilidade do seu código.

@@ -59,6 +59,3 @@ println(...): Exibe as mensagens no console. Aqui, é utilizado o recurso de int
 val age: Byte = 20: Declara uma constante age do tipo Byte com o valor 20.
 println(Byte.MAX_VALUE) e println(Byte.MIN_VALUE): Mostram os valores máximo e mínimo que uma variável do tipo Byte pode armazenar.
 println(Int.MAX_VALUE) e println(Int.MIN_VALUE): Mostram os valores máximo e mínimo que uma variável do tipo Int pode armazenar.
-
-Considerações Finais
-Compreender a diferença entre variáveis (var) e constantes (val) é crucial para garantir a correta manipulação de dados em Kotlin. Além disso, o conhecimento sobre os tipos de dados e seus limites ajuda a evitar erros comuns relacionados a estouros de memória e garantir que o código seja seguro e eficiente.
