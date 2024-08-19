@@ -1,4 +1,4 @@
-# Aula sobre String, Char e Pair em Kotlin
+# Aula sobre - String, Char e Pair em Kotlin
 
 ## Objetivo
 

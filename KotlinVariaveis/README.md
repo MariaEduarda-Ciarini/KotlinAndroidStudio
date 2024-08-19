@@ -1,4 +1,4 @@
-# Aula 3 - Variáveis, Constantes e Tipos em Kotlin
+# Aula sobre - Variáveis, Constantes e Tipos em Kotlin
 
 ## Objetivo
 
