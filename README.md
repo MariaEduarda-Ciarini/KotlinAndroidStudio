@@ -1,4 +1,8 @@
-# Estudos em Kotlin e Android Studio
+<a href="https://wakatime.com/badge/github/MariaEduarda-Ciarini/KotlinAndroidStudio">
+      <img src="https://wakatime.com/badge/github/MariaEduarda-Ciarini/KotlinAndroidStudio.svg" alt="WakaTime">
+    </a>
+
+# Estudos em Kotlin e Android Studio 
 
 Este repositório é dedicado ao armazenamento e organização dos meus estudos em Kotlin e Android Studio, desenvolvidos em 2024 durante o curso de Análise e Desenvolvimento de Sistemas na FIAP, onde atualmente estou no meu primeiro ano, e através de cursos adicionais na plataforma Alura.
 
