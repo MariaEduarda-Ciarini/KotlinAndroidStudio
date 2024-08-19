@@ -1,6 +1,7 @@
-  <a href="https://wakatime.com/badge/github/MariaEduarda-Ciarini/KotlinAndroidStudio">
-    <img src="https://wakatime.com/badge/github/MariaEduarda-Ciarini/KotlinAndroidStudio.svg?style=plastic" alt="WakaTime">
-  </a>
+<a href="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/ac794093-d1fc-44d1-a88a-08a36a7053e0">
+  <img src="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/ac794093-d1fc-44d1-a88a-08a36a7053e0.svg?style=plastic" alt="WakaTime">
+</a>
+
 
 # Estudos em Kotlin e Android Studio 
 
