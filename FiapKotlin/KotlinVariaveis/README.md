@@ -49,7 +49,7 @@ fun main() {
     println(Int.MAX_VALUE)  // 2147483647
     println(Int.MIN_VALUE)  // -2147483648
 }
-
+```
 Explicação:
 val name = "Kotlin": Declara uma constante name do tipo String. O valor "Kotlin" não pode ser alterado.
 

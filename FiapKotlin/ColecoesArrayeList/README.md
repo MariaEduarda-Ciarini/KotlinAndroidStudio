@@ -23,7 +23,7 @@ fun main() {
     // Obtendo o tamanho do array
     println(citys.size) // Imprime: 3
 }
-
+```
 
 Explicação do Código
 Criação do Array:

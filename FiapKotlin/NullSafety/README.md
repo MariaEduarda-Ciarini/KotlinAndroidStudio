@@ -35,7 +35,7 @@ fun main() {
     println(idade) // Exibe: 20
 }
 
-
+```
 Explicação
 var idade: Int? = null: Declara uma variável idade do tipo Int?, que pode ser nula.
 
