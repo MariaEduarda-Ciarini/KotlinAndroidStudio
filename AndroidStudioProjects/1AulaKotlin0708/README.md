@@ -109,23 +109,25 @@ fun GreetingPreview() {
         }
     }
 }
+```
 
-Explicação do Código
+## Explicação do Código
 Criação da Atividade Principal:
 
-A classe MainActivity estende ComponentActivity e configura a interface usando Jetpack Compose dentro do método onCreate.
+* A classe MainActivity estende ComponentActivity e configura a interface usando Jetpack Compose dentro do método onCreate.
 
-Definição do Layout com Jetpack Compose:
+### Definição do Layout com Jetpack Compose:
 
-A função Greeting cria uma coluna (Column) que contém textos e um botão. O primeiro Text exibe uma mensagem personalizada usando o parâmetro name. O botão, ao ser clicado, pode executar uma ação (a ser definida).
+- A função Greeting cria uma coluna (Column) que contém textos e um botão. O primeiro Text exibe uma mensagem personalizada usando o parâmetro name. O botão, ao ser clicado, pode executar uma ação (a ser definida).
 Visualização da Tela:
 
-A função GreetingPreview usa o @Preview para permitir a visualização da tela diretamente na IDE, mostrando como ela aparecerá no dispositivo.
+- A função GreetingPreview usa o @Preview para permitir a visualização da tela diretamente na IDE, mostrando como ela aparecerá no dispositivo.
 
-Navegação Básica na IDE
-Barra de Ferramentas: Contém atalhos para compilar, rodar e depurar seu projeto.
-Project Explorer: Navegue pelos arquivos do projeto.
-Logcat: Exibe logs do sistema e mensagens de depuração.
+6. ### Navegação Básica na IDE
+- Barra de Ferramentas: Contém atalhos para compilar, rodar e depurar seu projeto.
+- Project Explorer: Navegue pelos arquivos do projeto.
+- Logcat: Exibe logs do sistema e mensagens de depuração.
 
-Considerações Finais
+----
+7. - Considerações Finais
 Este repositório serve como uma introdução básica ao Android Studio e ao desenvolvimento de aplicativos Android usando Kotlin e Jetpack Compose. O exemplo de código aqui fornecido cria e visualiza uma tela simples, permitindo que você entenda a estrutura básica de um aplicativo Android moderno. À medida que você se sentir mais confortável, explore recursos mais avançados para criar interfaces de usuário mais complexas e interativas.
