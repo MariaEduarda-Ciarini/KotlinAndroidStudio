@@ -1,8 +1,8 @@
-<a href="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/ac794093-d1fc-44d1-a88a-08a36a7053e0">
-  <img src="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/ac794093-d1fc-44d1-a88a-08a36a7053e0.svg?style=plastic" alt="WakaTime">
+<a>
+<img src="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/ac794093-d1fc-44d1-a88a-08a36a7053e0.svg">
 </a>
 
-
+---
 # Estudos em Kotlin e Android Studio 
 
 Este repositório é dedicado ao armazenamento e organização dos meus estudos em Kotlin e Android Studio, desenvolvidos em 2024 durante o curso de Análise e Desenvolvimento de Sistemas na FIAP, onde atualmente estou no meu primeiro ano, e através de cursos adicionais na plataforma Alura.
