@@ -5,7 +5,7 @@ package model
 import java.time.LocalDate
 import java.time.Period
 
-class Pessoa {
+open class Pessoa {
 
     // Propriedes/campo/atributo do objeto
     var nome: String = ""
@@ -21,7 +21,7 @@ class Pessoa {
 
     // Métodos / Comportamento
 
-    fun exibirDados() {
+    open fun exibirDados() {
         println("Nome: $nome")
         println("Peso: $peso")
         println("Altura: $altura")
