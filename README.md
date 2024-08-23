@@ -20,7 +20,6 @@ Aqui você encontrará projetos, exercícios e anotações referentes aos meus a
 ## Referências
 
 - [FIAP - Análise e Desenvolvimento de Sistemas](https://www.fiap.com.br/)
-- [Alura - Cursos Online de Tecnologia](https://www.alura.com.br/)
 
 ## Como Usar
 
